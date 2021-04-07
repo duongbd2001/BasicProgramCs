@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Convert C++ to C#\\BasicProgramming\\ConvertCppToCsExercise1\\ConvertCppToCsExercise1\\RecursiveArrayNumber.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Convert C++ to C#\\BasicProgramming\\BasicProgramCs\\ConvertCppToCsExercise1\\ConvertCppToCsExercise1\\RecursiveArrayNumber.csproj",
       "projectName": "RecursiveArrayNumber",
-      "projectPath": "C:\\Users\\Admin\\Convert C++ to C#\\BasicProgramming\\ConvertCppToCsExercise1\\ConvertCppToCsExercise1\\RecursiveArrayNumber.csproj",
+      "projectPath": "C:\\Users\\Admin\\Convert C++ to C#\\BasicProgramming\\BasicProgramCs\\ConvertCppToCsExercise1\\ConvertCppToCsExercise1\\RecursiveArrayNumber.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Convert C++ to C#\\BasicProgramming\\ConvertCppToCsExercise1\\ConvertCppToCsExercise1\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Convert C++ to C#\\BasicProgramming\\BasicProgramCs\\ConvertCppToCsExercise1\\ConvertCppToCsExercise1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

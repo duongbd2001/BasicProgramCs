@@ -5,3 +5,10 @@ C:\Users\Admin\Convert C++ to C#\BasicProgramming\ChangeMoneyExercise\MoneyChang
 C:\Users\Admin\Convert C++ to C#\BasicProgramming\ChangeMoneyExercise\MoneyChangeProgram\MoneyChangeProgram\bin\Debug\MoneyChangeProgram.pdb
 C:\Users\Admin\Convert C++ to C#\BasicProgramming\ChangeMoneyExercise\MoneyChangeProgram\MoneyChangeProgram\obj\Debug\MoneyChangeProgram.exe
 C:\Users\Admin\Convert C++ to C#\BasicProgramming\ChangeMoneyExercise\MoneyChangeProgram\MoneyChangeProgram\obj\Debug\MoneyChangeProgram.pdb
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\ChangeMoneyExercise\MoneyChangeProgram\MoneyChangeProgram\bin\Debug\MoneyChangeProgram.exe.config
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\ChangeMoneyExercise\MoneyChangeProgram\MoneyChangeProgram\bin\Debug\MoneyChangeProgram.exe
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\ChangeMoneyExercise\MoneyChangeProgram\MoneyChangeProgram\bin\Debug\MoneyChangeProgram.pdb
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\ChangeMoneyExercise\MoneyChangeProgram\MoneyChangeProgram\obj\Debug\MoneyChangeProgram.csprojAssemblyReference.cache
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\ChangeMoneyExercise\MoneyChangeProgram\MoneyChangeProgram\obj\Debug\MoneyChangeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\ChangeMoneyExercise\MoneyChangeProgram\MoneyChangeProgram\obj\Debug\MoneyChangeProgram.exe
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\ChangeMoneyExercise\MoneyChangeProgram\MoneyChangeProgram\obj\Debug\MoneyChangeProgram.pdb

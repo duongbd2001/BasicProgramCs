@@ -5,3 +5,10 @@ C:\Users\Admin\Convert C++ to C#\BasicProgramming\BubbleSort\BubbleSortProgram\B
 C:\Users\Admin\Convert C++ to C#\BasicProgramming\BubbleSort\BubbleSortProgram\BubbleSortProgram\obj\Debug\BubbleSortProgram.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Convert C++ to C#\BasicProgramming\BubbleSort\BubbleSortProgram\BubbleSortProgram\obj\Debug\BubbleSortProgram.exe
 C:\Users\Admin\Convert C++ to C#\BasicProgramming\BubbleSort\BubbleSortProgram\BubbleSortProgram\obj\Debug\BubbleSortProgram.pdb
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\BubbleSort\BubbleSortProgram\BubbleSortProgram\bin\Debug\BubbleSortProgram.exe.config
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\BubbleSort\BubbleSortProgram\BubbleSortProgram\bin\Debug\BubbleSortProgram.exe
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\BubbleSort\BubbleSortProgram\BubbleSortProgram\bin\Debug\BubbleSortProgram.pdb
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\BubbleSort\BubbleSortProgram\BubbleSortProgram\obj\Debug\BubbleSortProgram.csprojAssemblyReference.cache
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\BubbleSort\BubbleSortProgram\BubbleSortProgram\obj\Debug\BubbleSortProgram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\BubbleSort\BubbleSortProgram\BubbleSortProgram\obj\Debug\BubbleSortProgram.exe
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\BasicProgramCs\BubbleSort\BubbleSortProgram\BubbleSortProgram\obj\Debug\BubbleSortProgram.pdb

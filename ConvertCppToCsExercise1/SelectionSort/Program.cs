@@ -11,6 +11,7 @@ namespace SelectionSort
         static void Main(string[] args)
         {
 			Console.OutputEncoding = Encoding.UTF8;
+			Console.Write("nhập số phần tử của mảng: ");
 			int n = Int32.Parse(Console.ReadLine());
 			int[] a = new int[n];
 			for (int i = 0; i < n; i++)

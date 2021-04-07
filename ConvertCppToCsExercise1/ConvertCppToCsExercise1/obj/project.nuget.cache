@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WKyM0EOtU7AFIPpqZ2PH6oXpGkjHwP+xTY94Fpu53TLib1qyv386LYmgk8qjwELHBrruFfQH0ERZVC6e2X/iSg==",
+  "dgSpecHash": "nhNWBwlyZjdqxYSrmA4R4rbFKI91cKerzJyN41+FUECCnT4+1XA8iw5a4gMcAjAaWZH0OW52UFVtM4M/uaUWrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Convert C++ to C#\\BasicProgramming\\ConvertCppToCsExercise1\\ConvertCppToCsExercise1\\RecursiveArrayNumber.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Convert C++ to C#\\BasicProgramming\\BasicProgramCs\\ConvertCppToCsExercise1\\ConvertCppToCsExercise1\\RecursiveArrayNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
