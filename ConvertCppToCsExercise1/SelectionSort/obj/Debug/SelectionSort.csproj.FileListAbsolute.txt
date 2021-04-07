@@ -1,0 +1,7 @@
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\ConvertCppToCsExercise1\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\ConvertCppToCsExercise1\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\ConvertCppToCsExercise1\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\ConvertCppToCsExercise1\SelectionSort\obj\Debug\SelectionSort.csprojAssemblyReference.cache
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\ConvertCppToCsExercise1\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\ConvertCppToCsExercise1\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\ConvertCppToCsExercise1\SelectionSort\obj\Debug\SelectionSort.pdb

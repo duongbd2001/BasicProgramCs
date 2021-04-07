@@ -1,0 +1,7 @@
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\SplitArray\SplitArrayProgram\SplitArrayProgram\bin\Debug\SplitArrayProgram.exe.config
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\SplitArray\SplitArrayProgram\SplitArrayProgram\bin\Debug\SplitArrayProgram.exe
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\SplitArray\SplitArrayProgram\SplitArrayProgram\bin\Debug\SplitArrayProgram.pdb
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\SplitArray\SplitArrayProgram\SplitArrayProgram\obj\Debug\SplitArrayProgram.csprojAssemblyReference.cache
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\SplitArray\SplitArrayProgram\SplitArrayProgram\obj\Debug\SplitArrayProgram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\SplitArray\SplitArrayProgram\SplitArrayProgram\obj\Debug\SplitArrayProgram.exe
+C:\Users\Admin\Convert C++ to C#\BasicProgramming\SplitArray\SplitArrayProgram\SplitArrayProgram\obj\Debug\SplitArrayProgram.pdb
